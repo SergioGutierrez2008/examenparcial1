@@ -1,0 +1,36 @@
+.parrafo-principal {
+    color: red;
+    font-size: 20px;
+    font-weight: 700;
+}
+ul{
+  color: blue;   
+  list-style: square;
+}
+h1{
+    size: 24px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.subtitulo {
+color: green;
+font-size: 18px;
+font-style: italic;
+}
+p{
+    text-align: left;
+    font-size: 16px;
+    text-transform: lowercase;
+}
+.mi-elemento{
+    background-color: lightyellow;
+}
+ol{
+    list-style: lower-roman ;
+    color: orange;
+    font-size: 16px;
+}
+.elemento-uno{
+    color: purple;
+    font-size: 18px;
+}
